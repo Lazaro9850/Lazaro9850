@@ -1,5 +1,6 @@
 # Oi! Eu sou Lázaro Gabriel.
 
+
 - 💻 Estou a procura de emprego como junior 
 - 🐍 Estou estudando Python atualmente
 - 📧 Contacte-me no email: lazaropessoal9850@gmail.com
