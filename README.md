@@ -1,12 +1,12 @@
 # Oi! Eu sou Lázaro Gabriel.
 
-- 💻 Estou a procura de emprego como junior 
-- 🐍 Estou estudando Python atualmente
-- 📧 Contacte-me no email: lazaropessoal9850@gmail.com
+- 💻 Buscando por empregos como junior
+- 🐍 Estudante de Python e Java
+- 📧 Entre em contato comigo em: lazaropessoal9850@gmail.com
 
-  ##### Sou Lázaro Gabriel, desenvolvedor python apaixonado por tecnologia e programação. Estudante de Desenvolvimento de Sistemas com foco em programação e criação de soluções funcionais. Sempre em busca de novos desafios para criar soluções criativas e eficientes, combinando performance e usabilidade.
+  ##### Sou Lázaro Gabriel, desenvolvedor Python e Java. Gosto de explorar novas linguagens para entender diferentes maneiras de resolver problemas e aproveitar o melhor de cada uma. Sou estudante de Desenvolvimento de Sistemas, com foco em programação e construção de lógica. Sempre em busca de novos desafios para criar soluções criativas e eficientes, combinando performance e usabilidade.
 
- ## Contacte-me!
+ ## Redes Sociais
  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/lazaro_gabriel_3118/) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/l%C3%A1zaro-cardoso-8513a1369/) [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lazaro9850)
 
 
